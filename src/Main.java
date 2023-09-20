@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -31,7 +29,6 @@ public class Main {
         for (Employee employees : employee) {
             System.out.println(employees);
         }
-
     }
 
     /**
